@@ -229,19 +229,19 @@ The breakpoints are indicated below, on the timeline: from the first confirmed c
 
 * **Hospitalized (active)** = Current number of people in hospital care (either in the ordinary ward or in the ICU).
 
-* **Hospitalized (total) ** = Sum of hospital admissions by date.
+* **Hospitalized (total)** = Sum of hospital admissions by date.
 
 * **ICU (active)** = Current number of people in ICUs (intensive care units).
 
-* **On ventilator (active) ** = Current number of persons in need of a ventilator.
+* **On ventilator (active)** = Current number of persons in need of a ventilator.
 
 * **Discharged from a hospital (daily)** = Number of discharged from hospital on that day.
 
 * **Discharged from hospital (total)** = Sum of all discharged from a hospital up to this day.
 
-* **Deaths (per day) ** = Number of deaths due to COVID-19 on that day.
+* **Deaths (per day)** = Number of deaths due to COVID-19 on that day.
 
-* **Deaths (total) ** = Sum of all deaths to date.
+* **Deaths (total)** = Sum of all deaths to date.
   
 </details>
 
@@ -292,7 +292,7 @@ The phases are shown because the change in testing methodology has also changed 
 
 * **Phase 5 (April 15-21)**: New change in testing methodology – re-testing, if possible, of **all suspected SARS-CoV-2 virus infections**.
 
-* ** Phase 6 (April 21–May 15**: New change in testing methodology – All persons **suspected of being infected with SARS-CoV-2** are tested again. A national survey of 3000 randomly sampled persons (additional testing, blood testing for the presence of antibodies) begins.
+* **Phase 6 (April 21–May 15)**: New change in testing methodology – All persons **suspected of being infected with SARS-CoV-2** are tested again. A national survey of 3000 randomly sampled persons (additional testing, blood testing for the presence of antibodies) begins.
 
 * **Phase 7 (May 15–present)**: The Slovenian government called an official end to its coronavirus epidemic – a quarantine of at least 14 days will remain in place for people from non-EU states, except for some exemptions (diplomats, cargo). Citizens still have to follow basic rules to prevent a possible spread of infection.
 
